@@ -1,7 +1,7 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2012 The Bitcoin developers
 // Copyright (c) 2011-2012 Litecoin Developers
-// Copyright (c) 2013 CHNCoin Developers
+// Copyright (c) 2013 Bitore Developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -829,16 +829,16 @@ uint256 static GetOrphanRoot(const CBlock* pblock)
 
 int64 static GetBlockValue(int nHeight, int64 nFees)
 {
-    int64 nSubsidy = 88 * COIN;
+    int64 nSubsidy = 300 * COIN;
 
     // Subsidy is cut in half every 2628000 blocks, which will occur approximately every 5 years
-    nSubsidy >>= (nHeight / 2628000); // CHNCoin: 2628k blocks in ~5 years
+    nSubsidy >>= (nHeight / 2628000); // Bitore: 2628k blocks in ~5 years
 
     return nSubsidy + nFees;
 }
 
-static const int64 nTargetTimespan = 24 * 60 * 60; // CHNCoin: 24 hours
-static const int64 nTargetSpacing = 60; // CHNCoin: 60 seconds
+static const int64 nTargetTimespan = 12 * 60 * 60; // Bitore: 12 hours
+static const int64 nTargetSpacing = 360; // Bitore: 6 minutes
 
 //
 // minimum amount of work that could possibly be required nTime after
