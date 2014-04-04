@@ -1,42 +1,42 @@
-简介：
+Introduction :
 ===================
-CHNCoin - 一个基于Litecoin的新型P2P货币。
- - 每分钟产生一个区块
- - 每2628000个区块产出减半（5年）
- - 总共462528000个货币
- - 每个区块88个货币
- - 每5040个区块调整一次难度（3天半）
+BitOre - a new minecraft inspired P2P -based on the currency Litecoin.
+ - Generate a block per minute
+ - Output per 2,628,000 blocks halved ( 5 years )
+ - A total of 462 528 000 Currency
+ - Each block 88 currency
+ - Adjusted once every 5040 blocks difficulty ( 3 ½ days )
 
-客户端下载地址：
+Client Download:
 ===================
-- Windows 客户端：http://sourceforge.net/projects/chncoin/files/0.6.4/CHNCoin-0.6.4-Windows-QT.zip/download
-- Mac 客户端：http://sourceforge.net/projects/chncoin/files/0.6.4/CHNCoin-0.6.4-Mac-QT.zip/download
-- Linux 客户端： http://sourceforge.net/projects/chncoin/files/0.6.4/CHNCoin-0.6.4-Linux.zip/download
+- Windows Client : 
+- Mac client : 
+- Linux Client : 
 
-官方网站：
+Official Website :
 ===================
-- 官网：http://chncoin.org
-- 论坛：http://bbs.chncoin.org
-- 源代码：http://github.com/CHNCoin/CHNCoin
+- The official website : 
+- Forum : 
+- Source : 
 
 
 Introduction:
 ===================
-CNCoin - a lite version of Litecoin used scrypt as a proof of work scheme.
+BitOre - a lite version of Litecoin used scrypt as a proof of work scheme.
  - 60 seconds block targets
- - subsidy halves in 2628k blocks (5 years)
- - ~462.5 million total coins
+ - Subsidy halves in 2628k blocks (5 years)
+ - ~ 462.5 million total coins
  - 88 coins per block
  - 5040 blocks to retarget difficulty
 
-Download Client：
+Download Client:
 ===================
-- Windows QT Client: http://sourceforge.net/projects/chncoin/files/0.6.4/CHNCoin-0.6.4-Windows-QT.zip/download
-- Mac QT Client: http://sourceforge.net/projects/chncoin/files/0.6.4/CHNCoin-0.6.4-Mac-QT.zip/download
-- Linux Client: http://sourceforge.net/projects/chncoin/files/0.6.4/CHNCoin-0.6.4-Linux.zip/download
+- Windows QT Client: 
+- Mac QT Client: 
+- Linux Client: 
 
 Official Sites:
 ===================
-- Homepage: http://chncoin.org
-- Forum: http://forum.chncoin.org
-- Source: http://github.com/CHNCoin/CHNCoin
+- Homepage: 
+- Forum: 
+- Source: 
