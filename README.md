@@ -23,10 +23,10 @@ Official Website :
 Introduction:
 ===================
 BitOre - a lite version of Litecoin used scrypt as a proof of work scheme.
- - 60 seconds block targets
+ - 360 seconds block targets
  - Subsidy halves in 2628k blocks (5 years)
  - ~ 462.5 million total coins
- - 88 coins per block
+ - 300 coins per block
  - 5040 blocks to retarget difficulty
 
 Download Client:
